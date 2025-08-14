@@ -1,0 +1,6 @@
+﻿,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
+Supplier_Lead_Time,1,,,,
+Inventory_Levels,0.065512934,1,,,
+Order_Frequency,-0.871108862,-0.089942459,1,,
+Delivery_Performance,-0.910406588,-0.022646132,0.79903941,1,
+Cost_Per_Unit,0.957358715,0.048543905,-0.831385299,-0.922085912,1
